@@ -3,11 +3,11 @@ authors = ["youbetdao"]
 language = "zh"
 multilingual = true
 src = "src"
-title = "youbet-tutorial"
+title = "最速曲线周刊"
 
 [output.html]
 additional-css = ["custom.css"]
 additional-js = ["custom.js"]
-git-repository-url = "https://github.com/youbetdao/youbet-tutorial-template"
+git-repository-url = "https://github.com/youbetdao/weekly"
 git-repository-icon = "fa-github"
 mathjax-support = true
