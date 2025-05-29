@@ -33,8 +33,6 @@
 | UW - PL                                  | 基础组       |
 | [UCB - LLM Agents](https://llmagents-learning.org/f24) | AI 组 |
 
----
-
 ## 📣 加入方式
 
 **参与路径：**
